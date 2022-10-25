@@ -1,0 +1,84 @@
+Question 1:  Define Science? 
+Question 2: Define Physics? Write branches of Physics. 
+Question 3: Write the advantages of physics in everyday life. 
+Question 4: What are the basic principles of physics in car and refrigerator? 
+Question 5: Define mechanics? 
+Question 6: Define plasma and geo physics? 
+Question 8: Define atomic and nuclear physics? 
+Question 10: What is the difference between base and derived quantities? 
+Question 7:  Define electro-magnetism? 
+Question 9: Define physical Quantities. 
+Question 11: What are base units? Give examples. OR Write names of seven base units. 
+Question 12: What are derived units? Give examples. 
+Question 13: What is meant by SI units? What role has it played in progress of science? 
+Question 17: Write in scientific notation: 100.8s, 210.0g and 0.00580km. 
+Question 15: What are prefixes? 
+Question 14: From which quantities work and volume are derived? 
+Question 16: What is meant by the scientific notation? What is the importance of writing the 
+Question 19: Write names of four measuring instruments. 
+Question 18: Write in standard form: 384000000m and 0.00045. 
+Question 20: Explain the use of meter rod? 
+Question 21: What is a least count? Write least count of the meter rod. 
+Question 22: How many divisions are there on vernier caliper? 
+Question 24: Why the zero error is so much important for a measuring device? 
+Question 23: What is meant by vernier constant? 
+Question 25: What is meant by zero error and zero correction? OR What do you know about 
+Question 27: What is screw gauge? When its zero error will be positive? 
+Question 26: What is difference between positive and negative zero error? 
+Question 29: What is meant by least count of screw gauge? Write its value. 
+Question 28: What is meant by pitch of screw gauge? 
+Question 30: A screw gauge has 50 divisions on its circular scale and has pitch of 0.5mm.Find 
+Question 32: What is the use of physical balance in physics? 
+Question 31: Why the reading taken by screw gauge is considered to be more accurate than 
+Question 34: What is difference between the physical and electronic balance? 
+Question 33: What is the purpose of balancing screws in physical balance? 
+Question 35: What is the difference between digital and mechanical stop watch? 
+Question 37: How is digital stop watch used? 
+Question 36: Why we need to measure the small duration of the time? 
+Question 38: What are the uses of measuring cylinders? 
+Question 39: How we can measure the volume of irregular shaped solid? 
+Question 40: What are significant figures in any measurement? 
+Question 41: Write important rules for finding significant figures? 
+Question 42: What is the relation between the correctness of measured value and the 
+Question 43: Round off 1.35 and 1.45. 
+Question 44: Express your age in terms of seconds?   
+Question 46: Express age of 16 years in seconds. 
+Question 45: Express age of 14 years in seconds. 
+Question 2: Define rest and motion? 
+Question 3: Define translatory motion and give examples? 
+Question 5: What is the difference between the circular and vibratory motion? 
+Question 1: What is meant by Kinematics? 
+Question 4: Define linear and random motion? 
+Question 6: what is rotatory motion and give an example? 
+Question 8: How vector quantities are expressed graphically? 
+Question 7: What is the difference between the scalar and the vector? Give examples. 
+Question 9: How a vector can be expressed? 
+Question 10: Explain the importance of the vectors everyday life? 
+Question 11: why the vectors cannot be added or subtracted like the scalars? 
+Question 13: what is the difference between the displacement and distance? 
+Question 14: what is the difference between the speed and the velocity? 
+Question 12: what is meant by position? 
+Question 16: Define acceleration and write its unit? 
+Question 15: Define terminal velocity. 
+Question 17: What is meant by positive or negative acceleration? Or what is retardation? 
+Question 19: Define uniform acceleration and give examples? 
+Question 20:  Can a body have an acceleration while it is moving with a constant speed? 
+Question 18: Define uniform speed and the uniform velocity? 
+Question 21: A player covers 100m in 12s. What is its average speed? 
+Question 23: Define variable speed. 
+Question 22: What is the shape of the speed- time graph when a body is moving with a 
+Question 24:  What is the shape of the speed- time graph when a body is moving with a 
+Question 26: What is the shape of the uniform acceleration graph? 
+Question 25: Define distance-time graph. 
+Question 27: Write mathematical expression of first, second and third equation of motion?    
+Question 28: Derive first equation of motion. 
+Question 29:  A car gains a velocity of 10m/s while moving with a constant acceleration 2ms
+Question 31: Define gravitational acceleration and write its value? 
+Question 30: A train moves with a uniform velocity of 36km/h for 10 s. How much total 
+Question 32: What is the use of LIDAR gun? 
+Question 33:  Convert a speed of the 20ms
+Question 34:  Convert a speed of the 10kmh
+Question 35:  Convert a speed of the 50km/h into m/s? 
+Question 36:  Convert a speed of the 1km/h into m/s? 
+Question 37:  Convert a speed of the 72km/h into m/s? 
+Question 38:  A train moves at 36km/h speed convert it into m/s. 
